@@ -53,6 +53,6 @@ Glu to Lys. A acidic amino acid to a basic amino acid. The amino acid is in the 
 
 0. Loss of material in 13q has caused a loss of one copy of BRCA2. The remaining one gains a mutation of E1158Q. As a result. There is no functional BRCA2 remaining.
 
-#Reference
+## Reference
 (1)National Cancer Institute. “Female Breast Cancer Subtypes - Cancer Stat Facts.” SEER, 2024, seer.cancer.gov/statfacts/html/breast-subtypes.html.
 (2)Tolu Ajiboye. “MNT Investigates: Anti-HER2 Drugs and the Fight against Metastatic Breast Cancer.” Medicalnewstoday.com, Medical News Today, 19 May 2021, www.medicalnewstoday.com/articles/anti-her2-drugs-and-the-fight-against-mbc#future-of-treatment. Accessed 31 Mar. 2025.
