@@ -24,8 +24,8 @@ In conclusion, I think this is HER2-positive invasive ductal carcinoma.
 
 ## What is the expected 5-year overall survival of this patient based on the totality of evidence? Cite your reference.
 
-For regional cancer, the 5-year relative survival rate is 90.4% for HR-positive and HER2-positive and 84.2% for HR-negative and HER2-positive cancer.  
-If cancer has spread to another part of the body, the 5-year relative survival rates are 45.8% for HR-positive and HER2-positive cancer and 39.7% for HR-negative and HER2-positive cancer.  (1)
+For regional cancer, the 5-year relative survival rate is 84.2% for HR-negative and HER2-positive cancer.  
+If cancer has spread to another part of the body, the 5-year relative survival rates are 39.7% for HR-negative and HER2-positive cancer.  (1)
 
 ## Which targeted therapy may be effective for this patient? Cite your reference.
 
